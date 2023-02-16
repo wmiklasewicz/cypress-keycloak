@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "wmiklasewicz",
   "main": "dist/index.js",
   "name": "@wmiklasewicz/cypress-keycloak",
