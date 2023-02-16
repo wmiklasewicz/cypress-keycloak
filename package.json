@@ -6,6 +6,9 @@
   "name": "@wmiklasewicz/cypress-keycloak",
   "module": "dist/index.esm.js",
   "description": "Cypress commands for Keycloak using the latest Cypress",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wmiklasewicz/cypress-keycloak.git"
