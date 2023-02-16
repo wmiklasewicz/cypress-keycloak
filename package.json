@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "author": "wmiklasewicz",
   "main": "dist/index.js",
-  "name": "cypress-keycloak",
+  "name": "cypress-keycloak-commands",
   "module": "dist/index.esm.js",
   "description": "Cypress commands for Keycloak using the latest Cypress",
   "repository": "https://github.com/wmiklasewicz/cypress-keycloak",
