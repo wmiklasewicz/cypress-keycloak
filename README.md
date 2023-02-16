@@ -4,6 +4,8 @@ Cypress commands for Keycloak
 
 ---
 
+This package/repository is created based on the fork from https://github.com/babangsund/cypress-keycloak I updated it about the latests cypress dependencies.
+
 ### Installation
 
 Using [npm](https://www.npmjs.com/):
