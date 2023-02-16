@@ -1,12 +1,12 @@
 {
   "license": "MIT",
-  "version": "2.0.0",
-  "author": "babangsund",
+  "version": "2.0.1",
+  "author": "wmiklasewicz",
   "main": "dist/index.js",
   "name": "cypress-keycloak",
   "module": "dist/index.esm.js",
-  "description": "Cypress commands for Keycloak",
-  "repository": "git://github.com/babangsund/cypress-keycloak.git",
+  "description": "Cypress commands for Keycloak using the latest Cypress",
+  "repository": "https://github.com/wmiklasewicz/cypress-keycloak",
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
     "watch": "NODE_ENV=development rollup -c -w",
