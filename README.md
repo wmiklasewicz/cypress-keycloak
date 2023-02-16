@@ -4,7 +4,7 @@ Cypress commands for Keycloak
 
 ---
 
-This package/repository is created based on the fork from https://github.com/babangsund/cypress-keycloak I updated it about the latests cypress dependencies.
+This package/repository is created based on the fork from https://github.com/babangsund/cypress-keycloak it contains now support for the latest Cypress versions.
 
 ### Installation
 
@@ -142,23 +142,3 @@ describe('thing', () => {
   });
 });
 ```
-
-### Credits
-
-#### Owner
-
-cypress-keycloak is built and maintained by **babangsund**.
-[@blog](https://babangsund.com/).
-[@github](https://github.com/babangsund).
-[@twitter](https://twitter.com/babangsund).
-
-#### Contributors
-- [m4xd](https://github.com/m4x3d)
-- Pascal Küsgen
-- Martin Guethle
-- Med Amine Amara
-- Oskar Thornblad
-- Kai
-- Raymon Ohmori
-- Robert Wysocki
-- Hussein Al Abry

@@ -6,7 +6,10 @@
   "name": "@wmiklasewicz/cypress-keycloak",
   "module": "dist/index.esm.js",
   "description": "Cypress commands for Keycloak using the latest Cypress",
-  "repository": "https://github.com/wmiklasewicz/cypress-keycloak",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmiklasewicz/cypress-keycloak.git"
+  },
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
     "watch": "NODE_ENV=development rollup -c -w",
@@ -30,5 +33,9 @@
     "rollup-plugin-terser": "^6.1.0",
     "rollup-plugin-typescript": "^1.0.1",
     "typescript": "^3.7.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wmiklasewicz/cypress-keycloak/issues"
+  },
+  "homepage": "https://github.com/wmiklasewicz/cypress-keycloak#readme"
 }
